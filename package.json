@@ -1,0 +1,24 @@
+{
+  "name": "rustwebsite",
+  "version": "1.0.0",
+  "description": "Valid Website for Rust",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmeetPatil/RustWebsite.git"
+  },
+  "author": "Smeet Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmeetPatil/RustWebsite/issues"
+  },
+  "homepage": "https://github.com/SmeetPatil/RustWebsite#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.11"
+  }
+}
